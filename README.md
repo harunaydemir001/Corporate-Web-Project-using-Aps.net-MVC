@@ -1,2 +1,1 @@
-# KurumsalWeb
-https://www.udemy.com/course/aspnet-mvc-yonetim-panelli-kurumsal-web-sitesi-egitimi-2019/ linkteki kursun yapılmış halidir.
+Udemy/Asp.NET MVC Yönetim Panelli Kurumsal Web Sitesi Eğitimi eğitiminin Asp.NET MVC, Entity Framework, Codefirst, SQL, HTML+CSS+JS, Bootstrap kullanılarak geliştirilen kurumsal web projesidir.
